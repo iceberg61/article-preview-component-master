@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/articlepreviewcomponent-vgA1uD68si)
+- Live Site URL: [Add live site URL here](https://iceberg61.github.io/article-preview-component-master/)
 
 ## My process
 
@@ -45,6 +45,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@iceberg61](https://www.frontendmentor.io/profile/iceberg61)
 - Twitter - [@ayanakoji-kiyo](https://www.twitter.com/ayanakoji-kiyo)
